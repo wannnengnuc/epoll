@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2018 xx Network Technology(Beijing) Co., Ltd
+ * All Rights Reserved.
+ * Confidential and Proprietary - xx Network Technology.
+ * Description:server    // 模块描述
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<sys/epoll.h>

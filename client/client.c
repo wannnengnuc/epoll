@@ -1,9 +1,9 @@
-/* 
-*client.c 
-*overred
-*notice:file's tail(return 0)will cause client to exit
-*the server will be getting a SIGPIPE signal while write buffer has unsent stuff
-*/
+/*
+ * Copyright (c) 2018 xx Network Technology(Beijing) Co., Ltd
+ * All Rights Reserved.
+ * Confidential and Proprietary - xx Network Technology.
+ * Description:client    // 模块描述
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
