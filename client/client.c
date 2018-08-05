@@ -17,7 +17,7 @@
 void connect_flood(int loop)
 {
     char *host="127.0.0.1";
-    int port=8080;
+    int port=8000;
     struct sockaddr_in servaddr;
     int sockfd;
     
